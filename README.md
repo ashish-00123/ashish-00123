@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashish Pandey</h1>
-<h3 align="center">A Machine Learning Engineer from Pune, India</h3>
+<h3 align="center">🚀 IT Engineering Student | Aspiring Software Engineer
+💻 Passionate about Software Development, AI, and Cloud Computing
+📊 Enthusiast in Machine Learning, Web Development, and Data Science
+🔧 Skilled in Python, Java, JavaScript, SQL, and DevOps
+📚 Always learning & building cool projects!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-00123&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-00123" /> </p>
 
